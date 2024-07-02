@@ -1,0 +1,8 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  source.cpp
+  MyDriver1.vcxproj -> Z:\Learning\Repos\MyDriver1\x64\Release\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: Z:\Learning\Repos\MyDriver1\x64\Release\MyDriver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
